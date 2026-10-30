@@ -1,0 +1,7 @@
+{
+  "llm_base_url": "http://TBD-HOST:8000",
+  "llm_model": "a4-llm",
+  "llm_api_key": "TBD-YOUR-PERSONAL-KEY",
+  "token_count": "server",
+  "extra_body": {}
+}

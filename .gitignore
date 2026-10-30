@@ -1,0 +1,6 @@
+config.json
+data/
+runs/
+*.zip
+__pycache__/
+.venv/
